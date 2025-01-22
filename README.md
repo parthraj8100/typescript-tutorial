@@ -4,7 +4,7 @@ code practice
 
 ## content
 
--[console task]
+-(#console task)
 -[variable-infer]
 -[special type]
 -[parameter]
