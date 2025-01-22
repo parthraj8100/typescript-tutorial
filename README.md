@@ -3,9 +3,9 @@
 code practice
 
 ## content
--setup
--console prog.
--variable-inference
--special type
--function parameter
+###setup
+###console prog.
+###variable-inference
+###special type
+###function parameter
 
