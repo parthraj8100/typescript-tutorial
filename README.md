@@ -3,9 +3,9 @@
 code practice
 
 ## content
-
--(#console task)
--[variable-infer]
--[special type]
--[parameter]
+-setup
+-console prog.
+-variable-inference
+-special type
+-function parameter
 
